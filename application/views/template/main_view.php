@@ -249,7 +249,7 @@
 
 									</li>
 
-									<!-- Transactions sample -->
+									<!-- Transactions -->
 									<li class="menu-item has-children">
 
 										<a href="#" class="menu-item-button">
